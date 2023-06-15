@@ -191,7 +191,7 @@ special instructions.
 <p id="accessibility">
   <strong>Registration:</strong>
 {% if online == "false" %}
-  <[Register here](https://kubkalender.kb.dk/event/4037671). On the registration form, choose which lessons you want to take part in. There is a learning progression from lesson to lesson, so dive in and join us in all the lessons to get the most out of the workshop!
+  [Register here](https://kubkalender.kb.dk/event/4037671). On the registration form, choose which lessons you want to take part in. There is a learning progression from lesson to lesson, so dive in and join us in all the lessons to get the most out of the workshop!
 </p>
 {% else %}
   We are dedicated to providing a positive and accessible learning environment for all. Please
